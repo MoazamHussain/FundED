@@ -47,6 +47,11 @@
 	 "D_desc" : "On selecting a particular appeal it’s details are displayed and the donor can also proceed to make payment from this module only if he/she is logged in."
 	},
 	{
+         "D_title": "Donate",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/donate_new_help.jpg?raw=true",
+	 "D_desc" : "Proceed to make payment from this module only if he/she is logged in."
+	},
+	{
          "D_title": "Profile",
 	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/profile_new_help.jpg?raw=true",
 	 "D_desc" : "Login or Signup through this module and if donor is logged in, his/her details are displayed. The donor can update his/her details also through this module."
